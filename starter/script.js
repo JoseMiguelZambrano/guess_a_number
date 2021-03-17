@@ -4,7 +4,7 @@ let btnCheck = document.querySelector('.check');
 let btnAgain = document.querySelector('.again');
 let messageInstruction = document.querySelector('.message');
 let unknowNumber = document.querySelector('.number');
-let highscore = document.querySelector('.highscore');
+let highScore = document.querySelector('.highscore');
 let randomeNumber = Math.trunc(Math.random() * 20 + 1);
 let maxValueScore;
 
